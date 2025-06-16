@@ -1,0 +1,14 @@
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\bin\Debug\net8.0\HellloWorld.exe
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\bin\Debug\net8.0\HellloWorld.deps.json
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\bin\Debug\net8.0\HellloWorld.runtimeconfig.json
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\bin\Debug\net8.0\HellloWorld.dll
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\bin\Debug\net8.0\HellloWorld.pdb
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\HellloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\HellloWorld.AssemblyInfoInputs.cache
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\HellloWorld.AssemblyInfo.cs
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\HellloWorld.csproj.CoreCompileInputs.cache
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\HellloWorld.dll
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\refint\HellloWorld.dll
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\HellloWorld.pdb
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\HellloWorld.genruntimeconfig.cache
+C:\Users\honesty\source\repos\HellloWorld\HellloWorld\obj\Debug\net8.0\ref\HellloWorld.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\honesty\\source\\repos\\HellloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39FD5C9B-987E-4340-923F-E7BFFB422E58}|HellloWorld\\HellloWorld.csproj|c:\\users\\honesty\\source\\repos\\hellloworld\\hellloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39FD5C9B-987E-4340-923F-E7BFFB422E58}|HellloWorld\\HellloWorld.csproj|solutionrelative:hellloworld\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\honesty\\source\\repos\\HellloWorld\\HellloWorld\\Program.cs",
+              "RelativeDocumentMoniker": "HellloWorld\\Program.cs",
+              "ToolTip": "C:\\Users\\honesty\\source\\repos\\HellloWorld\\HellloWorld\\Program.cs*",
+              "RelativeToolTip": "HellloWorld\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T17:56:19.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
